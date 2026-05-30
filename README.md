@@ -14,5 +14,6 @@ A hands-on repository for learning Playwright and JavaScript concepts.
 - **Chapter 8** — Switch Statement (switch, grouping, real-time examples)
 - **Chapter 9** — User Input
 - **Chapter 10** — Loops (for, while, do-while, for-in, for-of, interview questions)
-- **Chapter 11** — Arrays (adding, removing, searching, iterating, transforming)
+- **Chapter 11** — Arrays (adding, removing, searching, iterating, transforming, slicing, concatenation, checking)
+- **Chapter 12** — Functions (basic functions, parameters, return types, function expressions, arrow functions, template literals)
 - **Pramod_sir_Tasks** — Hands-on exercises (bug severity, build health, HTTP status codes, FizzBuzz, triangle classifier)
