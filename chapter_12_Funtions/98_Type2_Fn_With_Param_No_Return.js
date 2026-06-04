@@ -5,7 +5,7 @@ function greetByName(name) {
 
 greetByName("Pramod");
 let result = greetByName("Amit");
-console.log(result);
+console.log(result); //undefined
 
 
 function beggar(money) {
@@ -13,4 +13,4 @@ function beggar(money) {
 }
 
 let returnMesomething = beggar(100);
-console.log(returnMesomething);
+console.log(returnMesomething); // undefined

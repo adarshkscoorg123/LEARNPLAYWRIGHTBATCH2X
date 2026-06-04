@@ -9,6 +9,6 @@ function greet() { // no parameter
 greet(); // calling function(note: in this case, no arguments)
 
 
-let a = greet();
-console.log(a);
+let a = greet(); // hi
+console.log(a); // undefined
 

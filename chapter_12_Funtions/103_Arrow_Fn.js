@@ -33,3 +33,36 @@ console.log(result4);
 
 const printIt = (name) => console.log(name);
 printIt("Dutta");
+console.log("-----------");
+
+
+function add(a, b) {
+    return a + b;
+}
+
+let normal_function = add(14, 25);
+console.log(normal_function);
+
+const add2 = (a, b) => a + b;
+let function_as_expression = add2(10, 20);
+console.log(function_as_expression);
+console.log("-----------");
+
+function say() {
+    console.log("Hi");
+}
+
+const say1 = () => console.log("Hi");
+say1();
+
+const say2 = () => "Hi Addy";
+let return_something = say2();
+console.log(return_something);
+
+const greet3 = (name) => {
+    const message = "Hi" + name;
+    return message;
+}
+
+const return_something2 = greet3(" Madhava");
+console.log(return_something2);

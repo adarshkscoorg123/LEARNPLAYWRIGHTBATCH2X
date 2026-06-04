@@ -4,6 +4,5 @@ function goToRelativeHouse() {
     return "Hello";
 }
 
-
 let relative = goToRelativeHouse();
 console.log(relative);
