@@ -16,5 +16,7 @@ A hands-on repository for learning Playwright and JavaScript concepts.
 - **Chapter 10** — Loops (for, while, do-while, for-in, for-of, interview questions)
 - **Chapter 11** — Arrays (adding, removing, searching, iterating, transforming, slicing, concatenation, checking)
 - **Chapter 12** — Functions (basic functions, parameters, return types, function expressions, arrow functions, template literals, IIFE, default & rest parameters, spread operator, scope, closures, higher-order functions, pure functions)
+- **Chapter 13** — Strings (methods, properties, search, substring, transform, cheat sheet)
 - **Chapter 14** — Objects (creation, primitive vs reference, destructuring, spread, get/set methods, let/const with objects, real-world examples, interview questions)
+- **Chapter 15** — 2D Array (creation, real-world examples, functions, patterns)
 - **Pramod_sir_Tasks** — Hands-on exercises (bug severity, build health, HTTP status codes, FizzBuzz, triangle classifier)
