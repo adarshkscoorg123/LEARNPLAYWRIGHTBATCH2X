@@ -20,4 +20,5 @@ A hands-on repository for learning Playwright and JavaScript concepts.
 - **Chapter 14** — Objects (creation, primitive vs reference, destructuring, spread, get/set methods, let/const with objects, real-world examples, interview questions)
 - **Chapter 15** — 2D Array (creation, real-world examples, functions, patterns)
 - **Chapter 16** — Callbacks (sync, async, callback hell, parameters, return)
+- **Chapter 17** — Promise (creation, resolve, reject, chaining, async/await)
 - **Pramod_sir_Tasks** — Hands-on exercises (bug severity, build health, HTTP status codes, FizzBuzz, triangle classifier)
