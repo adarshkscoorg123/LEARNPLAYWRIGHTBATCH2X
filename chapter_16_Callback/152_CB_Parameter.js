@@ -9,7 +9,7 @@ greetTester("Dev", function () {
 });
 
 greetTester("Dev", () => {
-    console.log("Let's start testing!");
+    console.log("Let's start testing2!");
 });
 
 

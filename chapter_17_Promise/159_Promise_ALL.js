@@ -4,7 +4,8 @@ let checkDB = Promise.resolve("DB Ok");
 let checkCache = Promise.resolve("Cache OK");
 
 Promise.all([checkAuth, checkDB, checkCache]).then(function (results) {
-    console.log("All the checks are fine!");   // All the checks are fine!
+    console.log("All the checks are fine!");
+    console.log(results);  // All the checks are fine!
 })
 
 

@@ -21,4 +21,6 @@ A hands-on repository for learning Playwright and JavaScript concepts.
 - **Chapter 15** — 2D Array (creation, real-world examples, functions, patterns)
 - **Chapter 16** — Callbacks (sync, async, callback hell, parameters, return)
 - **Chapter 17** — Promise (creation, resolve, reject, chaining, async/await)
+- **Chapter 18** — Async/Await (async functions, parallel/sequential execution, interview questions, automation login)
+- **Chapter 19** — Playwright Basics (setup, package configuration, browser automation)
 - **Pramod_sir_Tasks** — Hands-on exercises (bug severity, build health, HTTP status codes, FizzBuzz, triangle classifier)

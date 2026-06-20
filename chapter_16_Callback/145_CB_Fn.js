@@ -1,3 +1,6 @@
+function callWhenTableisReady() {
+    console.log("calling 9876543210");
+}
 
 function cafe(item, callWhenTableisReady) {
     console.log("Finding...1");
@@ -5,10 +8,6 @@ function cafe(item, callWhenTableisReady) {
     console.log("Finding...3");
     console.log(item);
     callWhenTableisReady();
-}
-
-function callWhenTableisReady() {
-    console.log("calling 9876543210");
 }
 
 cafe("Burger", callWhenTableisReady);

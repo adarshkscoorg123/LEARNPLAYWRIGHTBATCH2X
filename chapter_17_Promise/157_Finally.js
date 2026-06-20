@@ -12,7 +12,7 @@ let testRun = new Promise(function (resolve, reject) {
 // Assertion Failed
 // I will be execued anyHow! 
 
-// If apiCall is true, then o/p willl be
+// If apiCall is true, then o/p will be
 // status: 'done'
 // I will be execued anyHow! 
 
@@ -23,5 +23,5 @@ testRun.then(function (data) {
     console.log(error);
 }).finally(function () {
     // This code will be always executed anyhow. 
-    console.log("I will be execued anyHow!");
+    console.log("I will be executed anyHow!");
 })

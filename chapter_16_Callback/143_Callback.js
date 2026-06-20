@@ -11,6 +11,7 @@ function placeOrder(ClipboardItem, pramodCallback) {
 // First Way
 placeOrder("Pizza", print);
 
+// second way
 placeOrder("Burger", function () {
     console.log("Anoy Fn, I am also a function without name!");
 });
