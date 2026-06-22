@@ -2,6 +2,38 @@
 
 A hands-on repository for learning Playwright and JavaScript concepts.
 
+## Prerequisites
+
+- [Node.js](https://nodejs.org/) (v18 or higher recommended)
+- npm (comes with Node.js)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/LEARNPLAYWRIGHTBATCH2x.git
+   cd LEARNPLAYWRIGHTBATCH2x
+   ```
+
+2. JavaScript chapters (Chapters 1–18) can be run directly with Node.js — no additional dependencies required:
+   ```bash
+   node chapter_01_Basics/filename.js
+   ```
+
+3. For Playwright (Chapter 19), install dependencies and browsers:
+   ```bash
+   cd chapter_19_Playwright_Basics
+   npm install
+   npx playwright install
+   cd ..
+   ```
+
+4. Run Playwright tests:
+   ```bash
+   cd chapter_19_Playwright_Basics
+   npx playwright test
+   ```
+
 ## Topics Covered
 
 - **Chapter 1** — JavaScript Basics (variables, hot code)
