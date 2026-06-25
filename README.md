@@ -56,4 +56,5 @@ A hands-on repository for learning Playwright and JavaScript concepts.
 - **Chapter 18** — Async/Await (async functions, parallel/sequential execution, interview questions, automation login)
 - **Chapter 19** — Playwright Basics (setup, package configuration, browser automation)
 - **Chapter 20** — Export & Import (named exports, default exports, aliasing with `as`, mixing default + named)
+- **Chapter 21** — Classes & Objects (class creation, constructors, methods, static members, private/public fields, real-world examples)
 - **Pramod_sir_Tasks** — Hands-on exercises (bug severity, build health, HTTP status codes, FizzBuzz, triangle classifier)
