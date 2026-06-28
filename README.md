@@ -57,4 +57,8 @@ A hands-on repository for learning Playwright and JavaScript concepts.
 - **Chapter 19** — Playwright Basics (setup, package configuration, browser automation)
 - **Chapter 20** — Export & Import (named exports, default exports, aliasing with `as`, mixing default + named)
 - **Chapter 21** — Classes & Objects (class creation, constructors, methods, static members, private/public fields, real-world examples)
+- **Chapter 22** — Encapsulation (private fields, getters/setters, real-world examples)
+- **Chapter 23** — Inheritance (single, multiple, hierarchical, real-world examples)
+- **Chapter 24** — Polymorphism (method overriding)
+- **Chapter 25** — OOP Interview Questions
 - **Pramod_sir_Tasks** — Hands-on exercises (bug severity, build health, HTTP status codes, FizzBuzz, triangle classifier)
