@@ -1,4 +1,3 @@
-
 class Animal {
     constructor(name) {
         this.name = name;
@@ -17,11 +16,10 @@ class Dog extends Animal {
         this.breed = breed;
     }
     bark() {
-        console.log(this.name, "is barking!")
-        console.log("And its breed is", this.breed);
+        console.log(this.name, "is barking!");
     }
-}
 
+}
 let dog = new Dog("Rex", "Labrador");
 dog.eat();
 dog.sleep();

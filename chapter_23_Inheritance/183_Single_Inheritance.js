@@ -1,4 +1,3 @@
-
 class BasePage {
 
     constructor(pageName) {
@@ -20,4 +19,3 @@ class LoginPage extends BasePage {
 const page = new LoginPage();
 page.open();
 page.close();
-
