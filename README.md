@@ -63,4 +63,7 @@ A hands-on repository for learning Playwright and JavaScript concepts.
 - **Chapter 25** — OOP Interview Questions
 - **Chapter 26** — TypeScript Basics (setup, hello world, data types, variables, functions)
 - **Chapter 27** — TypeScript Interfaces (interface creation, readonly, hooks, class implementation, real-world examples)
-- **Pramod_sir_Tasks** — Hands-on exercises (bug severity, build health, HTTP status codes, FizzBuzz, triangle classifier)
+- **Chapter 28** — TypeScript Enums (enum creation with string/numeric values, enums in functions, API usage)
+- **Chapter 29** — TypeScript Generics (generic functions, generic classes, API response typing)
+- **Chapter 30** — Private / Public / Protected (access modifiers, page object model, readonly, abstract classes)
+- **Pramod_sir_Tasks** — Hands-on exercises (bug severity, build health, HTTP status codes, FizzBuzz, triangle classifier, login lockout, test case pass/fail verdict)
