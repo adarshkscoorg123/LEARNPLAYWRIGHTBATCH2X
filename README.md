@@ -66,4 +66,5 @@ A hands-on repository for learning Playwright and JavaScript concepts.
 - **Chapter 28** — TypeScript Enums (enum creation with string/numeric values, enums in functions, API usage)
 - **Chapter 29** — TypeScript Generics (generic functions, generic classes, API response typing)
 - **Chapter 30** — Private / Public / Protected (access modifiers, page object model, readonly, abstract classes)
+- **Chapter 31** — TypeScript Type Alias, Override & Decorators (type aliases with `as`, override keyword, decorator creation and multiple decorators)
 - **Pramod_sir_Tasks** — Hands-on exercises (bug severity, build health, HTTP status codes, FizzBuzz, triangle classifier, login lockout, test case pass/fail verdict)
